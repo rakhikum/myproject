@@ -1,2 +1,3 @@
-# myproject
-my first repository
+# myproject demo
+This is my first repository
+author-rakhi kumari
